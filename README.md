@@ -10,4 +10,4 @@
 
 supervised machine learning, image segmentation
 
-## Citations\
+## Citations
